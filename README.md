@@ -1,1 +1,1 @@
-# to-do-app (docker tutorial sample project
+# to-do-app (docker tutorial project)
